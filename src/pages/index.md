@@ -13,7 +13,7 @@ layout: ../layouts/Layout.astro
 
 Evita preguntar si "puedes preguntar" o si alguien te puede ayudar, directamente haz la pregunta para que te podamos ayudar lo antes posible, esto nos ahorra tiempo tanto a ti como a nosotros.
 
-## [Escribir codigo con formato](#escribir-codigo-con-formato)
+## [Escribir código con formato](#escribir-codigo-con-formato)
 
 En vez de pegar tu código con texto plano, mejor dale formato. Para hacer esto, Discord nos permite usar [markdown](https://markdown.es/) en los mensajes. Para dar formato al código, simplemente escribe el código entre estas comillas como se ve en la siguiente imagen.
 
