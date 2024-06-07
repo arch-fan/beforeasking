@@ -7,7 +7,7 @@ layout: ../layouts/Layout.astro
 
 ### Tabla de contenidos
 - [No preguntes para preguntar](#no-preguntes-para-preguntar)
-- [Escribir codigo con formato](#escribir-codigo-con-formato)
+- [Escribir código con formato](#escribir-codigo-con-formato)
 
 ## [No preguntes para preguntar](#no-preguntes-para-preguntar)
 
