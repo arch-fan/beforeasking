@@ -3,11 +3,14 @@ title: Before Asking
 description: Lee esto antes de preguntar.
 layout: ../layouts/Layout.astro
 ---
+
 # Before Asking
 
 ### Tabla de contenidos
+
 - [No preguntes para preguntar](#no-preguntes-para-preguntar)
 - [Escribir código con formato](#escribir-codigo-con-formato)
+- [Como formular eficazmente la pregunta](#como-formular-eficazmente-la-pregunta)
 
 ## [No preguntes para preguntar](#no-preguntes-para-preguntar)
 
@@ -34,3 +37,12 @@ Si no puedes encontrar las comillas en el teclado, puedes copiar este esqueleto:
 // Escribe el codigo aqui
 ```
 ````
+
+## [Como formular eficazmente la pregunta](#como-formular-eficazmente-la-pregunta)
+
+Cuando vayas a hacer una pregunta, intenta explicar todo en un mensaje de forma detallada y a poder ser con ejemplos. Va a ser mucho más rapido que nos digas la duda en un solo mensaje a que empecemos a preguntarte por cosas que ya podrías haber escrito antes. Es muy importante incluir el código si es que la duda lo requiere.
+Puedes seguir esta estructura:
+
+- Descripción de la duda
+- Trozo de código problemático (con [formato de código](#escribir-codigo-con-formato))
+- Captura de un ejemplo (por ejemplo si es de CSS, puedes hacer una captura en la web de como se ve el problema)
