@@ -14,7 +14,19 @@ layout: ../layouts/Layout.astro
 
 ## [No preguntes para preguntar](#no-preguntes-para-preguntar)
 
-Evita preguntar si "puedes preguntar" o si alguien te puede ayudar, directamente haz la pregunta para que te podamos ayudar lo antes posible, esto nos ahorra tiempo tanto a ti como a nosotros.
+Evita preguntar si "puedes preguntar" o si alguien te puede ayudar.
+En algunos casos se puede ver a gente hacer preguntas del siguiente estilo:
+
+```
+Usuario: Alguien sabe Python?
+```
+
+Y hay varias razones por las que esta es una pregunta problematica, por ejemplo:
+- Excluye a las personas que puedan leer la pregunta pero no saber la tecnologia especifica
+- Hace que otros usuarios duden de sus habilidades para responderte
+- Es una pregunta floja ya que no menciona el problema
+
+Hacer preguntas de este estilo disminuye tus probabilidades de obtener una respuesta por que le pides a otras personas que cumplan con ciertos requisitos para responderte, ademas, si el problema no esta escrito junto a tu pregunta puede sentirse como que no estas dispuesto a describir tu problema al menos que alguien pueda ayudarte, lo cual se ve flojo, mejor directamente haz la pregunta para que te podamos ayudar lo antes posible, esto nos ahorra tiempo tanto a ti como a nosotros.
 
 ## [Escribir código con formato](#escribir-codigo-con-formato)
 
