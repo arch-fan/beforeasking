@@ -14,6 +14,17 @@ const createButton = (text: string) => {
 
   copyButton.innerHTML = copySVG;
 
+  copyButton.classList.add(
+    "absolute",
+    "top-2",
+    "right-2",
+    "h-6",
+    "w-6",
+    "flex"
+  );
+
+  copyButton.setAttribute("aria-label", "Copy code to clipboard");
+
   copyButton.addEventListener("click", () => {
     navigator.clipboard.writeText(text);
 
@@ -23,15 +34,6 @@ const createButton = (text: string) => {
       copyButton.innerHTML = copySVG;
     }, 2000);
   });
-
-  copyButton.classList.add(
-    "absolute",
-    "top-2",
-    "right-2",
-    "h-6",
-    "w-6",
-    "flex"
-  );
 
   return copyButton;
 };
