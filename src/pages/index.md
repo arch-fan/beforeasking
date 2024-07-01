@@ -6,7 +6,7 @@ layout: ../layouts/Layout.astro
 
 # Before Asking
 
-### Tabla de contenidos
+## Tabla de contenidos
 
 - [No preguntes para preguntar](#no-preguntes-para-preguntar)
 - [Escribir código con formato](#escribir-código-con-formato)
