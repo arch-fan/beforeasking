@@ -6,4 +6,7 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   integrations: [tailwind()],
   site: "https://beforeasking.archfan.com",
+  experimental: {
+    svg: true,
+  },
 });
